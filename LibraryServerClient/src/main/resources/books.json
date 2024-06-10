@@ -1,0 +1,12 @@
+[
+    {"author": "Author1", "name": "Book1", "genre": "Genre1", "numberOfCopies": 3},
+    {"author": "Author2", "name": "Book2", "genre": "Genre2", "numberOfCopies": 5},
+    {"author": "Author3", "name": "Book3", "genre": "Genre3", "numberOfCopies": 2},
+    {"author": "Author4", "name": "Book4", "genre": "Genre4", "numberOfCopies": 4},
+    {"author": "Author5", "name": "Book5", "genre": "Genre5", "numberOfCopies": 6},
+    {"author": "Author6", "name": "Book6", "genre": "Genre6", "numberOfCopies": 1},
+    {"author": "Author7", "name": "Book7", "genre": "Genre7", "numberOfCopies": 7},
+    {"author": "Author8", "name": "Book8", "genre": "Genre8", "numberOfCopies": 8},
+    {"author": "Author9", "name": "Book9", "genre": "Genre9", "numberOfCopies": 9},
+    {"author": "Author10", "name": "Book10", "genre": "Genre10", "numberOfCopies": 10}
+]
